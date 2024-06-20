@@ -21,6 +21,8 @@ TCK's use is unknown.
 
 See attached photos for the way it behaves on boot.
 
+The device is likely one-time-programmed, as that's a prominent feature of it
+and the corresponding mobile app has no OTA abilities.
 
 # Related links
 * SDK for the probable chip: https://github.com/17HXX/ST17H6xT
